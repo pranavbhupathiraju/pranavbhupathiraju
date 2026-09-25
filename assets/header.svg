@@ -1,0 +1,76 @@
+<svg width="100%" height="160" viewBox="0 0 900 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Deep Space Gradient -->
+    <linearGradient id="space_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060913" />
+      <stop offset="50%" stop-color="#0B1120" />
+      <stop offset="100%" stop-color="#05070E" />
+    </linearGradient>
+
+    <!-- Saber Cyan / Plasma Glow -->
+    <linearGradient id="cyan_glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D2FF" stop-opacity="0" />
+      <stop offset="25%" stop-color="#00D2FF" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#7000FF" stop-opacity="1" />
+      <stop offset="75%" stop-color="#00D2FF" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#00D2FF" stop-opacity="0" />
+    </linearGradient>
+
+    <radialGradient id="nebula_glow" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#00D2FF" stop-opacity="0.12" />
+      <stop offset="60%" stop-color="#7000FF" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 800;
+      font-size: 34px;
+      letter-spacing: 6px;
+      fill: #FFFFFF;
+    }
+    .subtitle {
+      font-family: 'SF Mono', 'Fira Code', 'Roboto Mono', Menlo, monospace;
+      font-weight: 500;
+      font-size: 13px;
+      letter-spacing: 3px;
+      fill: #00D2FF;
+    }
+    .star { fill: #FFFFFF; }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="900" height="160" rx="10" fill="url(#space_bg)" />
+  <rect width="900" height="160" rx="10" fill="url(#nebula_glow)" />
+
+  <!-- Outer Rim Border -->
+  <rect x="1" y="1" width="898" height="158" rx="9" stroke="#1E293B" stroke-width="1.5" />
+
+  <!-- Stars Field -->
+  <circle cx="50" cy="30" r="1" class="star" opacity="0.4" />
+  <circle cx="120" cy="80" r="1.5" class="star" opacity="0.7" />
+  <circle cx="210" cy="40" r="1" class="star" opacity="0.3" />
+  <circle cx="280" cy="120" r="1.2" class="star" opacity="0.6" />
+  <circle cx="360" cy="25" r="1" class="star" opacity="0.5" />
+  <circle cx="450" cy="135" r="1" class="star" opacity="0.4" />
+  <circle cx="540" cy="35" r="1.2" class="star" opacity="0.6" />
+  <circle cx="620" cy="110" r="1" class="star" opacity="0.3" />
+  <circle cx="710" cy="45" r="1.5" class="star" opacity="0.8" />
+  <circle cx="790" cy="95" r="1" class="star" opacity="0.5" />
+  <circle cx="840" cy="30" r="1.2" class="star" opacity="0.7" />
+  <circle cx="160" cy="130" r="0.8" class="star" opacity="0.4" />
+  <circle cx="670" cy="135" r="0.8" class="star" opacity="0.4" />
+
+  <!-- Subtle Constellation Lines -->
+  <path d="M50 30 L120 80 L210 40" stroke="#00D2FF" stroke-width="0.5" opacity="0.15" />
+  <path d="M710 45 L790 95 L840 30" stroke="#00D2FF" stroke-width="0.5" opacity="0.15" />
+
+  <!-- Content -->
+  <text x="50%" y="68" text-anchor="middle" class="title">PRANAV BHUPATHIRAJU</text>
+  <text x="50%" y="105" text-anchor="middle" class="subtitle">AI &amp; MACHINE LEARNING • DATA SYSTEMS • UMASS AMHERST</text>
+
+  <!-- Glowing Plasma Line -->
+  <line x1="150" y1="130" x2="750" y2="130" stroke="url(#cyan_glow)" stroke-width="2" stroke-linecap="round" />
+</svg>
