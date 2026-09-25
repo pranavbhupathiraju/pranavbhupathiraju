@@ -28,9 +28,9 @@
 
 ---
 
-### About Me
+### Hello!
 
-I'm a Computer Science student at **UMass Amherst** working toward becoming a software engineer. My main interests right now are in machine learning and data systems. Outside of coursework, I'm usually building cool stuff or listening to music (or both at the same time)
+I'm a Computer Science student at **UMass Amherst**. My main interests right now are in machine learning and data systems. Outside of courses and work, I'm usually building cool stuff or listening to music (or both at the same time)
 
 ---
 
