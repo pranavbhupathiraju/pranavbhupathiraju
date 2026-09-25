@@ -30,7 +30,7 @@
 
 ### Hello!
 
-I'm a Computer Science student at **UMass Amherst**. My main interests right now are in machine learning and data systems. Outside of courses and work, I'm usually building cool stuff or listening to music (or both at the same time)
+I'm a Computer Science student at **UMass Amherst**. My main interests right now are in machine learning and data systems. Outside of courses and work, I'm usually building cool stuff or listening to music (or doing both at the same time)
 
 ---
 
