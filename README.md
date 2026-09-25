@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Custom Deep-Space Header Banner -->
-  <img src="./assets/header.svg" width="100%" alt="Pranav Bhupathiraju Header" />
+  <img src="https://raw.githubusercontent.com/pranavbhupathiraju/pranavbhupathiraju/main/assets/header.svg" width="100%" alt="Pranav Bhupathiraju Header" />
 
   <br/><br/>
 
