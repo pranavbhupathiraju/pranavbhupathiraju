@@ -34,7 +34,7 @@ I'm a Computer Science student at **UMass Amherst**. My main interests right now
 
 ---
 
-### Tech Stack
+### Tech Stack!
 
 <div align="center">
 
