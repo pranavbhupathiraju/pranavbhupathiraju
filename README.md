@@ -48,11 +48,11 @@ I'm a Computer Science student at **UMass Amherst** working toward becoming a so
 
 ---
 
-### Beyond the Screen
+### Me!
 
-* **Watching:** Star Wars, Black Clover (Asta is top tier), Marvel
-* **Heavy Rotation:** Lil Uzi Vert, Pi'erre Bourne, Playboi Carti
-* **Off the Grid:** Building Legos, Legos, and more Legos
+* **Watching:** Star Wars, Black Clover (Asta solos your favorite verse), Marvel
+* **Listening:** Lil Uzi Vert, Pi'erre Bourne, Playboi Carti
+* **Hobbies:** Building Legos, Legos, and more Legos
 
 ---
 
