@@ -4,7 +4,7 @@
 
   <!-- Terminal Transmission -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=00D2FF&center=true&vCenter=true&width=620&lines=%3E+transmission+incoming...;%3E+CS+%40+UMass+Amherst;%3E+aspiring+engineering+professional;%3E+exploring+the+outer+rim+of+compute" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=00D2FF&center=true&vCenter=true&width=620&lines=%3E+Hi%2C+I'm+Pranav;%3E+I'm+a+Computer+Science+student;%3E+Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
