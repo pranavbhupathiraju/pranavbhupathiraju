@@ -50,8 +50,8 @@ I'm a Computer Science student at **UMass Amherst**. My main interests right now
 
 ### Me!
 
-* **Watching:** Star Wars, Black Clover (Asta solos your favorite verse), Marvel
-* **Listening:** Lil Uzi Vert, Pi'erre Bourne, Playboi Carti
+* **Watching:** Black Clover (Asta solos your favorite verse), Marvel
+* **Listening:** Lil Uzi Vert, Pi'erre Bourne, Plaqueboymax, 1oneam
 * **Hobbies:** Building Legos, Legos, and more Legos
 
 ---
